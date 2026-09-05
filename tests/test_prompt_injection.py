@@ -1,7 +1,5 @@
 """
 SHIELD AI — Prompt Injection Tests
-=====================================
-
 Tests for prompt injection detection.
 """
 
