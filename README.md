@@ -1,6 +1,5 @@
-# RAZORPAY BUILDATHON PITCH PROJECT
-Hi, I’m Karan Joshi an M.Tech CSE student at NIT Delhi, and I’m particularly interested in how Razorpay is evolving from a traditional payment gateway toward AI-native and agentic payments. 
-While exploring Razorpay’s MCP and agentic-payment ecosystem for the Buildathon, I started thinking about the problem: once AI agents are given the ability to interact with financial tools, how do we make sure they use those capabilities safely?
+Hi, I’m particularly interested a traditional payment gateway toward AI-native and agentic payments. 
+While exploring MCP and agentic-payment ecosystem for the Buildathon, I started thinking about the problem: once AI agents are given the ability to interact with financial tools, how do we make sure they use those capabilities safely?
 
 That led me to build **SHIELD AI** - an AI-agent security and governance layer that sits between an autonomous agent and financial MCP tools. It evaluates the agent’s identity, capabilities, user intent, transaction policy, risk, behavior, and tool usage before allowing an action to execute.
 
